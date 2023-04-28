@@ -1,0 +1,4 @@
+fullname: Dubakin Sergey Sergeevich
+age: 32
+pet: 2
+salary: 60000
