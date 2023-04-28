@@ -1,1 +1,11 @@
-
+id: 1
+severity: critical
+environment: MacOS ventura 13.0.1 (22A400) Chrome 112.0.5615.137
+title: App link missing in App store
+steps: 
+  step1: open page examplebugreport.com;
+  step2: click on the main menu;
+  step3: click on the button Download on the App Store
+expected result: the link to download the application in the App store works when you click on the button
+actual result: the link to download the application in the App store does not work when you click on the button
+author: Dubakin Sergey
